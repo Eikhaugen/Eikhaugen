@@ -1,10 +1,9 @@
 ## Hi there 👋
 I am currently studying frontend development at Noroff School of Technology and Digital Media.
 
-Currently learning Javascript and Python!
 
 ### My Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,figma)](https://skillicons.dev)
 
 
 ### Noroff 🎓
